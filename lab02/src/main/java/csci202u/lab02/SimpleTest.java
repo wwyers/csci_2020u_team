@@ -1,5 +1,10 @@
 package lab02;
 
-public class HelloWorld{
-	System.out.println("Hello World");
+
+public class SimpleTest {
+
+    public static void main(String[] args) {
+        System.out.println("Hello, World");
+    }
+
 }
